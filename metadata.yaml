@@ -1,0 +1,30 @@
+_repo: A-Biographical-Dictionary-of-Freethinkers-of-All-Ages-and-Nations_34513
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, J. M. (Joseph Mazzini)
+    aliases:
+    - Wheeler, Joseph Mazzini
+    - Wheeler, Joseph M.
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '39852'
+    url: http://www.gutenberg.org/2009/agents/39852
+description: ''
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34513'
+  lccn: '12016799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought -- Biography'
+title: A Biographical Dictionary of Freethinkers of All Ages and Nations
+url: http://www.gutenberg.org/ebooks/34513
